@@ -1,0 +1,1 @@
+python -m pip install Flask langchain-postgres langchain-openai langchain-text-splitters pgvector psycopg[binary]
