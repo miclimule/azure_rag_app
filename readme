@@ -1,0 +1,11 @@
+pip install openai
+pip install tiktoken
+pip install azure-search-documents
+pip install azure-search-documents azure-core pyodbc
+pip install azure-cognitiveservices-vision-customvision
+pip install requests python-dotenv
+pip install python-docx PyPDF2 
+
+
+Download
+https://go.microsoft.com/fwlink/?linkid=2280794
